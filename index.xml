@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PrivacyNow Blog</title>
+    <link>https://privacynow.swivro.net/</link>
+    <description>Recent content on PrivacyNow Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Dec 2021 16:52:04 -0500</lastBuildDate><atom:link href="https://privacynow.swivro.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comcast Sucks</title>
+      <link>https://privacynow.swivro.net/posts/comcast-sucks/</link>
+      <pubDate>Fri, 17 Dec 2021 16:52:04 -0500</pubDate>
+      
+      <guid>https://privacynow.swivro.net/posts/comcast-sucks/</guid>
+      <description>Comcast is US-based popular internet service provider. Comcast does not notify you if the government is requesting data associated with you, likely even if a gag order is not present. They have also received a 1-star privacy rating from the Electronic Frontier Foundation, which obviously, is an extremely bad rating. Comcast also fought against Google Chrome &amp;amp; Mozilla Firefox&amp;rsquo;s new encrypted-DNS feature which encrypts DNS traffic that leaves the browser, which makes it harder for Comcast to see what their customers are doing on the internet, but at the same time Comcast also claims that they don&amp;rsquo;t spy on their users.</description>
+    </item>
+    
+    <item>
+      <title>The Google Pixel&#39;s Ironically Good Privacy</title>
+      <link>https://privacynow.swivro.net/posts/google-pixel-smartphone-privacy/</link>
+      <pubDate>Fri, 17 Dec 2021 16:51:26 -0500</pubDate>
+      
+      <guid>https://privacynow.swivro.net/posts/google-pixel-smartphone-privacy/</guid>
+      <description>The Google Pixel Smartphone ironically has surprisingly good user privacy. We say ironically, because the Google Pixel is developed by Google, and Google is known to not respect user privacy, but that may not be the case with the Google Pixel. I, the author of this post, am definitely a huge advocate for online privacy, but my next smartphone may be a Google Pixel.
+The Pixel uses Android, the same operating system that Samsung, Moto, OnePlus, LG, and many more all use for their smartphones.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://privacynow.swivro.net/posts/hello-world/</link>
+      <pubDate>Fri, 17 Dec 2021 16:37:07 -0500</pubDate>
+      
+      <guid>https://privacynow.swivro.net/posts/hello-world/</guid>
+      <description>Hello world :)</description>
+    </item>
+    
+  </channel>
+</rss>
