@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sample Page on PrivacyNow</title>
-    <link>https://privacynow.swivro.net/sample-page/</link>
+    <link>https://privacynow.eu.org/sample-page/</link>
     <description>Recent content in Sample Page on PrivacyNow</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://privacynow.swivro.net/sample-page/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://privacynow.eu.org/sample-page/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
