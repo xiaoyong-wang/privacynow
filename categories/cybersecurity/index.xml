@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cybersecurity on PrivacyNow</title>
+    <link>https://privacynow.eu.org/categories/cybersecurity/</link>
+    <description>Recent content in Cybersecurity on PrivacyNow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Dec 2021 01:31:43 -0500</lastBuildDate><atom:link href="https://privacynow.eu.org/categories/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why does TLS matter?</title>
+      <link>https://privacynow.eu.org/blog/why-does-tls-matter/</link>
+      <pubDate>Fri, 31 Dec 2021 01:31:43 -0500</pubDate>
+      
+      <guid>https://privacynow.eu.org/blog/why-does-tls-matter/</guid>
+      <description>When browsing the internet or using a website, you should always make sure that your connection to the website is encrypted via TLS, mostly referred to as HTTPS, so no one can see exactly what you&amp;rsquo;re doing.</description>
+    </item>
+    
+  </channel>
+</rss>

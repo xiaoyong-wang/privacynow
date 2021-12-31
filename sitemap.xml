@@ -3,15 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://privacynow.eu.org/blog/</loc>
-    <lastmod>2021-12-20T20:43:06-05:00</lastmod>
+    <lastmod>2021-12-31T01:31:43-05:00</lastmod>
   </url><url>
     <loc>https://privacynow.eu.org/categories/</loc>
-    <lastmod>2021-12-20T20:43:06-05:00</lastmod>
+    <lastmod>2021-12-31T01:31:43-05:00</lastmod>
   </url><url>
-    <loc>https://privacynow.eu.org/categories/online-privacy/</loc>
-    <lastmod>2021-12-20T20:43:06-05:00</lastmod>
+    <loc>https://privacynow.eu.org/categories/cybersecurity/</loc>
+    <lastmod>2021-12-31T01:31:43-05:00</lastmod>
   </url><url>
     <loc>https://privacynow.eu.org/</loc>
+    <lastmod>2021-12-31T01:31:43-05:00</lastmod>
+  </url><url>
+    <loc>https://privacynow.eu.org/blog/why-does-tls-matter/</loc>
+    <lastmod>2021-12-31T01:31:43-05:00</lastmod>
+  </url><url>
+    <loc>https://privacynow.eu.org/categories/online-privacy/</loc>
     <lastmod>2021-12-20T20:43:06-05:00</lastmod>
   </url><url>
     <loc>https://privacynow.eu.org/blog/self-hosting-a-vpn/</loc>
