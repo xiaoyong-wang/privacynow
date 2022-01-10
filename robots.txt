@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://privacynow.eu.org/sitemap.xml

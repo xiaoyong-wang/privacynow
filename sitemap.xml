@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://privacynow.eu.org/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://privacynow.eu.org/</loc>
+</url>
+<url>
+<loc>https://privacynow.eu.org/comcast-sucks.html</loc>
+<lastmod>2022-01-09T23:48:20-05:00</lastmod>
+<image:image>
+<image:loc>https://privacynow.eu.org/media\posts\2/comcast.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://privacynow.eu.org/self-hosting-a-vpn.html</loc>
+<lastmod>2022-01-09T23:51:57-05:00</lastmod>
+<image:image>
+<image:loc>https://privacynow.eu.org/media\posts\4/cyber-security-3400657_1920.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://privacynow.eu.org/the-google-pixels-ironically-good-privacy.html</loc>
+<lastmod>2022-01-09T23:47:09-05:00</lastmod>
+<image:image>
+<image:loc>https://privacynow.eu.org/media\posts\1/gpixel.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://privacynow.eu.org/what-is-threat-modeling.html</loc>
+<lastmod>2022-01-09T23:50:17-05:00</lastmod>
+<image:image>
+<image:loc>https://privacynow.eu.org/media\posts\3/lock1.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://privacynow.eu.org/why-does-tls-matter.html</loc>
+<lastmod>2022-01-09T23:52:59-05:00</lastmod>
+<image:image>
+<image:loc>https://privacynow.eu.org/media\posts\5/https.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
